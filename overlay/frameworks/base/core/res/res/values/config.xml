@@ -29,6 +29,12 @@
             32 - Camera
          For example, a device with Home, Back and Menu keys would set this
          config to 7. -->
-    <integer name="config_deviceHardwareKeys">19</integer>
+    <integer name="config_deviceHardwareKeys">83</integer>
+
+    <!-- Button brightness -->
+    <bool name="config_deviceHasVariableButtonBrightness">true</bool>
+
+    <!-- Whether notify fingerprint client of successful cancelled authentication -->
+    <bool name="config_notifyClientOnFingerprintCancelSuccess">true</bool>
 
 </resources>

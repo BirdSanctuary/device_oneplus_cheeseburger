@@ -1,3 +1,3 @@
-add_lunch_combo aosp_cheeseburger-eng
-add_lunch_combo aosp_cheeseburger-user
-add_lunch_combo aosp_cheeseburger-userdebug
+add_lunch_combo citrus_cheeseburger-eng
+add_lunch_combo citrus_cheeseburger-user
+add_lunch_combo citrus_cheeseburger-userdebug
