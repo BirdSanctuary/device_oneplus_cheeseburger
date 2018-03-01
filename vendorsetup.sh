@@ -1,3 +1,0 @@
-add_lunch_combo citrus_cheeseburger-eng
-add_lunch_combo citrus_cheeseburger-user
-add_lunch_combo citrus_cheeseburger-userdebug
