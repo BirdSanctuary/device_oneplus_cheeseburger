@@ -37,4 +37,7 @@
     <!-- Whether notify fingerprint client of successful cancelled authentication -->
     <bool name="config_notifyClientOnFingerprintCancelSuccess">true</bool>
 
+    <!-- button brightness -->
+    <bool name="config_button_brightness_support">true</bool>
+
 </resources>
